@@ -7,7 +7,7 @@ const config = {
     botDestination  : 'both', // group |  private | both
     region       	: 'indonesia',
     resbot_version  : 'Ikhsan v2.0.2',
-    apikey_resbot   : 'ikhsandev', // apikey beli di autoresbot.com
+    apikey_resbot   : 'c30604c768b69ed5bdefd951523e8e9a', // apikey beli di autoresbot.com
     apikeyProdia    : '953c5de9-f0f5-4596-bf9c-5f03f70f46d6', // apikey ambil di https://app.prodia.com
     nomorsuperOwner : '6287846614391',
     grup            : 'https://chat.whatsapp.com/EqpQshWL1QyEjuI9ts40pD',
